@@ -1,4 +1,4 @@
-#CETScoin
+# CETScoin
 
 **CETS** stands for: Cryptocurrency Exchange Trading System. 
 
@@ -25,7 +25,7 @@ You may download them from:
 * http://www.cmake.org/
 * http://www.boost.org/
 
-##Linux
+## Linux
 
 
 Get the tools needed:
@@ -49,7 +49,7 @@ Run `make` command inside the `src/` directory.
 
 To build, change to a directory where this file is located, and run `make`. The resulting executables can be found in `build/release/src`.
 
-##Windows (64-bit)
+## Windows (64-bit)
 
 **Visual C++ 2015 Build Tools**
 
@@ -89,7 +89,7 @@ MSBuild CryptoNote.sln /p:Configuration=release /m
 The executables will be build inside:
 ```cetscoin\build\src\Release```
 
-##Mac - OSX
+## Mac - OSX
 
 Use brew to install the dependencies:
 ```
