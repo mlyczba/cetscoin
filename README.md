@@ -2,6 +2,8 @@
 
 **CETS** stands for: Cryptocurrency Exchange Trading System. 
 
+This is an experimental coin, created as a branch from [Cryptonote project](https://github.com/cryptonotefoundation/cryptonote). Use it to play around with cryptocurrencies and blockchains. It uses the same technology as Monero and Bytecoin.
+
 It is an attempt to extend the LETSystem for community-based mutual aid networks
 in which people exchange all kinds of goods and services with one another, without the need for money.
 
