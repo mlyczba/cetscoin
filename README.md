@@ -12,8 +12,6 @@ incorporated into the exchange of goods.
 
 Total available coins is: 18.446.744. Each block is mined every 2 minutes.
 
-The best way to install CETScoin wallet is to compile it, but you can also [download precompiled wallets](https://drive.google.com/drive/folders/1f71zMN2v6Wzp4oIGrXR7S4tZDQ9I2y_0).
-
 [Check the wiki pages for more information](https://github.com/mlyczba/cetscoin/wiki)
 
 ## Building CETScoin 
